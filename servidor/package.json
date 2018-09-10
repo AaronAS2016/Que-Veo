@@ -1,0 +1,24 @@
+{
+  "name": "que-veo-hoy",
+  "version": "1.0.0",
+  "description": "Proyecto 9 para acamica",
+  "main": "servidor.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Saban",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
